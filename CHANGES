@@ -1,3 +1,5 @@
+1.0.2 2022-08-24
+  - Update Funding field in dataset description to be an array
 1.0.1	2018-09-07
 
 	- Adding DOI
