@@ -15,6 +15,6 @@
     "ReferencesAndLinks": [
         "A test-retest fMRI dataset for motor, language and spatial attention functions, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641991/"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds000114.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds000114.v1.0.2",
     "BIDSVersion": "1.0.0rc2"
 }
